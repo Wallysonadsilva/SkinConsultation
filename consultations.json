@@ -1,0 +1,1 @@
+[{"doctor":{"name":"Josh","surname":"Doe","dateOfBirth":"N/A","mobileNumber":"N/A","medicalLicenseNumber":"D1234","specialization":"Dermatology"},"patient":{"name":"Ellie","surname":"Suits","dateOfBirth":"N/A","mobileNumber":"N/A","patientId":"P1739290966374"},"dateTime":[2025,3,1,12,0],"cost":25.0,"notes":"No notes yet"}]
